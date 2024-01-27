@@ -1,4 +1,4 @@
-package com.example.foodyapp
+package com.example.foodyapp.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -7,6 +7,7 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
+import com.example.foodyapp.R
 import com.example.foodyapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
